@@ -41,7 +41,7 @@ body {
     color: #dadada;
     line-height: 1.75;
     width: 100%;
-    background: url(assets/bg-main.jpg) center;
+    background: #000 center;
     font-family: 'Open Sans';
 }
  
@@ -162,7 +162,7 @@ h2 {
 		text-align: center;
 		margin-top: 60px;
 		font-size:15px;
-		font-family: Gotham, "Helvetica Neue", Helvetica, Arial, sans-serif;
+		font-family: "Gotham", "Helvetica Neue", Helvetica, Arial, sans-serif;
 }
 
 
