@@ -152,6 +152,11 @@ h2 {
     height: 55px;
 }
 
+#countdown
+{
+	text-align:center;
+}
+
 .socialIcons{
 	    color:white;
 		text-align: center;
