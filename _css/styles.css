@@ -85,7 +85,20 @@ h2 {
     width: 58%;
     margin: 40px auto 0;
 }
- 
+
+.icon img
+{
+	float:center;
+	margin : 10px;
+	
+}
+
+.icon h1
+{
+	font-family: "Bebas Neue";
+}
+	
+
 .details {
     margin-top: 30px;
     color: #fff;
@@ -139,16 +152,45 @@ h2 {
     height: 55px;
 }
 
+.socialIcons{
+	    color:white;
+		text-align: center;
+		margin-top: 60px;
+		font-size:15px;
+		font-family: Gotham, "Helvetica Neue", Helvetica, Arial, sans-serif;
+}
+
+
+#ic_facebook
+{
+	margin:5px;
+}
+
+#ic_twitter
+{
+	margin:5px;
+}
+
+#ic_youtube
+{
+	margin:5px;
+}
+
 footer {
     font-size: 13px;
     text-align: center;
     margin-top: 25px;
     text-transform: uppercase;
     text-shadow: 2px 2px 2px rgba(150,150,150,1);
+	background-color:#5A5A5A;
+	height: 100px;
+	width:100%;
 }
  
 footer a {
     color: #fff;
+	text-align:center;
+	margin-top: 20px;
 }
 
 /* Counter Styles */
